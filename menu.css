@@ -1,0 +1,12 @@
+body {
+  height: auto;
+  background: #333;
+}
+.headline {
+  font-size: 1.5em;
+  font-family: consolas;
+  color: #fff;
+}
+.card {
+  min-height: 450px !important;
+}
