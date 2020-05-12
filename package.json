@@ -1,0 +1,23 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "Made some widgets.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manovijay1997/widgets.git"
+  },
+  "author": "Vijay M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manovijay1997/widgets/issues"
+  },
+  "homepage": "https://github.com/manovijay1997/widgets#readme",
+  "dependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
