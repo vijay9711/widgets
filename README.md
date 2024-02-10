@@ -1,2 +1,2 @@
 # widgets
-Demo https://manovijay1997.github.io/widgets/ 
+Demo https://vijay9711.github.io/widgets/ 
